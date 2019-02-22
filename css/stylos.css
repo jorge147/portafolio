@@ -29,22 +29,22 @@ h1 strong {
   color: #026fff;
 }
 
-/*h2 {
+h2 {
   color: #026fff;
   text-transform: uppercase;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
   font-size: 24px;
   margin-bottom: 40px;
-}*/
+}
 
-h2 {
+/*h2 {
   display:block; 
   width: 99px;
   padding: 2px;
   border: 2px solid pink;
 }
-
+*/
 /*h2 {
   display:block; 
   height: 50px;
